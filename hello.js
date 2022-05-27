@@ -7,3 +7,4 @@ promise.then(
 ).catch((err) => console.log(err))
 
 // test git rebase 1
+// test git rebase 2
