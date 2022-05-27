@@ -14,3 +14,5 @@ promise.then(
 // test pull 3
 
 // test commit 1
+// test commit 2
+// test commit ammend
