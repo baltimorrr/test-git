@@ -10,3 +10,4 @@ promise.then(
 // test git rebase 2
 
 // test pull 1
+// test pull 2
