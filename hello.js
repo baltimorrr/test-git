@@ -12,6 +12,7 @@ promise.then(
 // test pull 1
 // test pull 2
 // test pull 3
+// test pull 4
 
 // test commit 1
 // test commit 2
